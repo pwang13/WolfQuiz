@@ -2,7 +2,7 @@
 
 ### Functions
  * login checking 
- * user registration,
+ * user registration
  * response construction
  * database update and search
 
@@ -10,5 +10,5 @@
  is a Windows web development environment. It allows you to create web applications with Apache2, PHP and a MySQL
 
 ### Code Structure
-Include fold contains basic setup code and utilities.
+*Include* fold contains basic setup code and utilities.
 Files with same prefix follow the same logic, they just make change of different parts of the database. Writing them seperately is to make it easier to debug but it will be more coding efficiently to compress the code a little bit. 
